@@ -9,13 +9,13 @@ GitHub Actions
 <br>
 <br>
 
-- [VS Code GitHub Actions Extension Nedir?](#vs-code-github-actions-extension-nedir)
+- [GitHub Actions Nedir?](#github-actions-nedir)
 
 <br>
 <br>
 
-## VS Code GitHub Actions Extension Nedir?
+## GitHub Actions Nedir?
 
 <br>
 
-GitHub Actions ile entegrasyonu sağlayarak GitHub projelerinizi daha verimli bir şekilde yönetmenizi sağlar. Bu özellik sayesinde GitHub deposundaki iş akışlarınızı görüntüleyebilir, düzenleyebilir, oluşturabilir, başlatabilir, durdurabilir ve sonuçlarını görüntüleyebilirsiniz. Bu geliştirme sürecinizi daha kolay ve etkili hale getirir.
+GitHub Actions, GitHub tarafından sunulan bir hizmettir ve sürekli entegrasyon ve dağıtım (CI/CD) gibi işlemleri otomatikleştirmek için kullanılır. GitHub Actions, GitHub deposundaki belirli olaylar gerçekleştiğinde belirli bir işlemi gerçekleştiren otomatik çalışan iş akışlarıdır.
